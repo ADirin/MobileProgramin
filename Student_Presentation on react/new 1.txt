@@ -1,0 +1,42 @@
+NativeBase: (Excellent presentation)
+G1:
+Customization / Consistancy..
+--------------------
+Ignite React Native  (?* Superficially, 5 min)
+G2
+
+___________________
+
+UI Kitten React native (Excellent presentation with demo test)
+Customization
+G3
+-----------------------
+
+Shoutem UI/ App Builder (Excellent presentation without since it is not free)
+G4
+-----------------------------
+
+Paper, Reactive paper (Excellent with demo)
+Simplecity and each to use
+Multilanguage support
+Demo
+G5
+-----------------------------------------------
+RNUILIB (Excellent with demo)
+Small bundle size
+stylling
+easy theming
+G6
+-------------------------------------------------
+Lotie (Excellent presentation)
+Annimation libary for adobe...
+G7
+
+---
+Galio Theme (Excellent)
+G8
+
+-----
+React natice Elements (Excellent presentation Demo and test)
+G9
+
